@@ -1,8 +1,6 @@
 @font-face {
-  font-family: 'AvenirNextCondensed-Bold';
-  src: url('https://s3.amazonaws.com/learn-verified/Avenir+Next+Condensed.ttc')
-  font-weight: normal;
-  font-style: normal;
+  font-family: 'Avenir Next Condensed';
+  src: url('https://s3.amazonaws.com/learn-verified/Avenir+Next+Condensed.ttc');
 }
 
 * {
@@ -80,7 +78,7 @@ img {
 .wrapper {
   width: 800px;
   margin: 0 auto;
-  /*background: url(../MOCKUP.jpg);*/
+  /*background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
 }
 
 .album {
